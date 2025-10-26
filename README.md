@@ -13,7 +13,11 @@
   </tr>
 </table>
 
+<table>
+  <tr >
+    <td><h2> Achievements </h2><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/120689158" height="150" alt="eJPT logo" />
+    </td>
+  </tr>
+</table>
 <img src="https://raw.githubusercontent.com/Alx-J/Alx-J/output/snake.svg" alt="Snake animation" />
 
-### Achievements
- <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/120689158" height="150" alt="eJPT logo"  />
