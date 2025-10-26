@@ -12,10 +12,6 @@
     </td>
   </tr>
 </table>
-<picture>
-  <img src="https://raw.githubusercontent.com/Alx-J/Alx-J/output/snake.svg" alt="Snake animation" />
-</picture>
 
-
-
+<img src="https://raw.githubusercontent.com/Alx-J/Alx-J/output/snake.svg" alt="Snake animation" />
 
