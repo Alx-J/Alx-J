@@ -20,5 +20,3 @@
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/Alx-J/Alx-J/output/snake.svg" alt="Snake animation" />
-
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Alx-J)](https://github.com/pranesh-2005/github-readme-stats-fast)
